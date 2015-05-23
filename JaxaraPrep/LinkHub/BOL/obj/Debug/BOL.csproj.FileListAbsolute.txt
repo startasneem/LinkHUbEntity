@@ -1,0 +1,10 @@
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BOL\bin\Debug\BOL.dll.config
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BOL\bin\Debug\BOL.dll
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BOL\bin\Debug\BOL.pdb
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BOL\bin\Debug\EntityFramework.dll
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BOL\bin\Debug\EntityFramework.SqlServer.dll
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BOL\bin\Debug\EntityFramework.xml
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BOL\bin\Debug\EntityFramework.SqlServer.xml
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BOL\obj\Debug\BOL.dll
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BOL\obj\Debug\BOL.pdb

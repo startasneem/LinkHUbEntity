@@ -1,0 +1,9 @@
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\DAL\bin\Release\DAL.dll
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\DAL\bin\Release\DAL.pdb
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\DAL\bin\Release\BOL.dll
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\DAL\bin\Release\EntityFramework.dll
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\DAL\bin\Release\BOL.pdb
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\DAL\bin\Release\EntityFramework.xml
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\DAL\obj\Release\DAL.dll
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\DAL\obj\Release\DAL.pdb

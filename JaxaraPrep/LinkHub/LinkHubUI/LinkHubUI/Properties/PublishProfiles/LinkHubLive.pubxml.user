@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\DhoraKhawarPor\DelagatesApp</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Areas/Admin/Views/ApproveUrLs/Index.cshtml">
+      <publishTime>05/22/2015 14:42:30</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Category/Index.cshtml">
+      <publishTime>05/21/2015 16:21:22</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/ListCategory/Index.cshtml">
+      <publishTime>05/21/2015 13:07:29</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/ListUser/Index.cshtml">
+      <publishTime>05/21/2015 08:51:55</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Shared/_Layout.cshtml">
+      <publishTime>05/20/2015 13:55:00</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/web.config">
+      <publishTime>05/20/2015 12:34:09</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/_ViewStart.cshtml">
+      <publishTime>05/20/2015 14:38:13</publishTime>
+    </File>
+    <File Include="Areas/Common/Views/BrowseURL/Index.cshtml">
+      <publishTime>05/21/2015 08:30:29</publishTime>
+    </File>
+    <File Include="Areas/Common/Views/Home/Index.cshtml">
+      <publishTime>05/20/2015 14:00:17</publishTime>
+    </File>
+    <File Include="Areas/Common/Views/QuickSubmit/Index.cshtml">
+      <publishTime>05/23/2015 08:55:30</publishTime>
+    </File>
+    <File Include="Areas/Common/Views/Shared/_Layout.cshtml">
+      <publishTime>05/20/2015 14:00:01</publishTime>
+    </File>
+    <File Include="Areas/Common/Views/web.config">
+      <publishTime>05/20/2015 12:31:26</publishTime>
+    </File>
+    <File Include="Areas/Common/Views/_ViewStart.cshtml">
+      <publishTime>05/20/2015 14:38:02</publishTime>
+    </File>
+    <File Include="Areas/Security/Views/Login/Index.cshtml">
+      <publishTime>05/23/2015 10:32:20</publishTime>
+    </File>
+    <File Include="Areas/Security/Views/Register/Index.cshtml">
+      <publishTime>05/22/2015 11:42:01</publishTime>
+    </File>
+    <File Include="Areas/Security/Views/Shared/_Layout.cshtml">
+      <publishTime>05/20/2015 14:01:21</publishTime>
+    </File>
+    <File Include="Areas/Security/Views/web.config">
+      <publishTime>05/20/2015 12:34:25</publishTime>
+    </File>
+    <File Include="Areas/Security/Views/_ViewStart.cshtml">
+      <publishTime>05/20/2015 14:37:50</publishTime>
+    </File>
+    <File Include="Areas/User/Views/URL/Index.cshtml">
+      <publishTime>05/22/2015 13:59:43</publishTime>
+    </File>
+    <File Include="Areas/User/Views/web.config">
+      <publishTime>05/20/2015 12:34:47</publishTime>
+    </File>
+    <File Include="Areas/User/Views/_ViewStart.cshtml">
+      <publishTime>05/20/2015 14:37:37</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>05/23/2015 10:41:16</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>05/23/2015 10:41:16</publishTime>
+    </File>
+    <File Include="bin/BLL.dll">
+      <publishTime>05/23/2015 10:33:33</publishTime>
+    </File>
+    <File Include="bin/BOL.dll">
+      <publishTime>05/23/2015 10:33:32</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>05/23/2015 10:33:33</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.AspNet.dll">
+      <publishTime>05/23/2015 09:28:08</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.Core.dll">
+      <publishTime>05/23/2015 09:28:07</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Consumer.dll">
+      <publishTime>05/23/2015 09:28:08</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.dll">
+      <publishTime>05/23/2015 09:28:07</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.dll">
+      <publishTime>05/23/2015 09:28:07</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.dll">
+      <publishTime>05/23/2015 09:28:07</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>05/20/2015 11:59:51</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>05/20/2015 11:59:51</publishTime>
+    </File>
+    <File Include="bin/LinkHubUI.dll">
+      <publishTime>05/23/2015 10:41:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.WebPages.OAuth.dll">
+      <publishTime>05/23/2015 09:28:08</publishTime>
+    </File>
+    <File Include="bin/Mono.Math.dll">
+      <publishTime>05/23/2015 09:28:07</publishTime>
+    </File>
+    <File Include="bin/Org.Mentalis.Security.Cryptography.dll">
+      <publishTime>05/23/2015 09:28:07</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Extensions.dll">
+      <publishTime>05/23/2015 09:28:06</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Primitives.dll">
+      <publishTime>05/23/2015 09:28:06</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>05/20/2015 11:42:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>05/20/2015 11:42:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>05/20/2015 11:42:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>05/20/2015 11:42:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>05/20/2015 11:42:01</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>05/20/2015 11:42:01</publishTime>
+    </File>
+    <File Include="bin/WebMatrix.Data.dll">
+      <publishTime>05/23/2015 09:28:02</publishTime>
+    </File>
+    <File Include="bin/WebMatrix.WebData.dll">
+      <publishTime>05/23/2015 09:28:02</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>05/20/2015 12:45:13</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>05/20/2015 12:45:13</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>05/20/2015 12:45:04</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>05/20/2015 12:45:13</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>05/20/2015 12:45:13</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>05/20/2015 12:45:13</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>05/20/2015 12:45:13</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/23/2015 09:28:48</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>05/23/2015 10:41:10</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>05/20/2015 12:45:13</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>05/20/2015 12:45:13</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>05/20/2015 12:45:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>05/20/2015 12:45:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>05/20/2015 12:45:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>05/20/2015 12:45:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>05/20/2015 12:45:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>05/20/2015 12:45:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>05/20/2015 12:45:12</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>05/20/2015 12:45:14</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>05/22/2015 16:48:54</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>05/20/2015 11:42:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/23/2015 10:41:08</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

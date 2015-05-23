@@ -1,0 +1,58 @@
+﻿@using System.Web.UI.WebControls
+@model IEnumerable<BOL.tbl_Category>
+
+@{
+    ViewBag.Title = "ListCategories";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+
+<table class="table" id="myTable">
+    <thead>
+        <tr>
+            <th>
+                @Html.ActionLink("CategoryName", "Index", new { SortOrder = (ViewBag.sortOrder == null ? "Asc" : (ViewBag.sortOrder == "Asc" ? "Desc" : "Asc")), SortBy = "CategoryName", page = (ViewBag.Page == null ? "1" : ViewBag.Page) })
+
+            </th>
+            <th>
+                @Html.ActionLink("CategoryDesc", "Index", new { SortOrder = (ViewBag.sortOrder == null ? "Asc" : (ViewBag.sortOrder == "Asc" ? "Desc" : "Asc")), SortBy = "CategoryDesc", page = (ViewBag.Page == null ? "1" : ViewBag.Page) })
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Desc)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+@*@{
+    double TotalPage = ViewBag.TotalPages;
+}
+    @for (int i = 1; i < TotalPage; i++)
+    {
+        if (i == ViewBag.Page)
+        {
+            <b> @Html.ActionLink(i.ToString() + " ", "Index", new { SortOrder = (ViewBag.sortOrder == null ? "Asc" : ViewBag.sortOrder), SortBy = (ViewBag.SortBy == null ? "Name" : ViewBag.SortBy), Page = i }) </b>
+        }
+        else
+        {
+            @Html.ActionLink(i.ToString() + " ", "Index", new { SortOrder = (ViewBag.sortOrder == null ? "Asc" : ViewBag.sortOrder), SortBy = (ViewBag.SortBy == null ? "Name" : ViewBag.SortBy), Page = i })
+        }
+    }*@
+
+

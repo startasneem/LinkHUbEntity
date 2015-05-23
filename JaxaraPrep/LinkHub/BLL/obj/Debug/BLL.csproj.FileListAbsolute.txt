@@ -1,0 +1,11 @@
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BLL\bin\Debug\BLL.dll
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BLL\bin\Debug\BLL.pdb
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BLL\bin\Debug\BOL.dll
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BLL\bin\Debug\DAL.dll
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BLL\bin\Debug\EntityFramework.dll
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BLL\bin\Debug\BOL.pdb
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BLL\bin\Debug\DAL.pdb
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BLL\bin\Debug\EntityFramework.xml
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BLL\obj\Debug\BLL.dll
+f:\DhoraKhawarPor\DemoApp\JaxaraPrep\LinkHub\BLL\obj\Debug\BLL.pdb
